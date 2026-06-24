@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently pursuing BTech **Final year**
+- 🎓 B.Tech CSE (AI & ML) Student at Presidency University, Bangalore
 
 - 👨‍💻 All of my projects are available at [https://github.com/inchara-k-r](https://github.com/inchara-k-r)
 
